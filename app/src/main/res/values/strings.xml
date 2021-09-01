@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="instName">Enter your name:</string>
+    <string name="instAge">Enter your age:</string>
+    <string name="txtAge">Age</string>
+    <string name="txtName">Name</string>
+    <string name="btnSubmit">GO!</string>
+    <string name="outputWelcome">Welcome</string>
+    <string name="outputLucktext">, your lucky number is:</string>
+
+</resources>

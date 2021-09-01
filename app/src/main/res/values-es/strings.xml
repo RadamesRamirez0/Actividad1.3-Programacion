@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="instName">Ingresa tu nombre:</string>
+    <string name="instAge">Ingresa tu edad:</string>
+    <string name="txtAge">Edad</string>
+    <string name="txtName">Nombre</string>
+    <string name="btnSubmit">Vamos!</string>
+    <string name="outputWelcome">Bienvenido</string>
+    <string name="outputLucktext">, tu número de la suerte es:</string>
+
+</resources>
